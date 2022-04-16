@@ -1,5 +1,6 @@
 name,ring,quadrant,isNew,description
 ArgoCD,Learning,tools,TRUE,"Test"
+TerraForm,Learning,tools,TRUE,"Test"
 PowerShell DSC,Familar,tools,FALSE,"Test"
 Selenium,Familar,tools,FALSE,"Test"
 Robot Framework,Familar,tools,FALSE,"Test"
