@@ -1,12 +1,10 @@
 name,ring,quadrant,isNew,description
 ArgoCD,Learning,tools,TRUE,"Test"
-
 PowerShell DSC,Familar,tools,FALSE,"Test"
 Selenium,Familar,tools,FALSE,"Test"
 Robot Framework,Familar,tools,FALSE,"Test"
 Prometheus,Familar,tools,FALSE,"Test"
 Grafana,Familar,tools,FALSE,"Test"
-
 Python,Professional,tools,FALSE,"Test"
 Django,Professional,tools,FALSE,"Test"
 Github Actions,Professional,tools,FALSE,"Test"
@@ -16,14 +14,12 @@ OpenShift,Professional,tools,FALSE,"Test"
 Kubernetes,Professional,tools,FALSE,"Test"
 Windows Server,Professional,tools,FALSE,"Test"
 Linux Server,Professional,tools,FALSE,"Test"
-
 SCRUM,Expert,tools,FALSE,"Test"
 Kanban,Expert,tools,FALSE,"Test"
 Ansible,Expert,tools,FALSE,"Test"
 Jenkins,Expert,tools,FALSE,"Test"
 Docker,Expert,tools,FALSE,"Test"
 GitHub,Expert,tools,FALSE,"Test"
-
 anary builds,Learning,techniques,FALSE,"Many projects have external code dependencies ..."
 Apache Kylin,Learning,platforms,TRUE,"Apache Kylin is an open source analytics solution ..."
 JSF,Learning,languages & frameworks,FALSE,"We continue to see teams run into trouble using JSF ..."
